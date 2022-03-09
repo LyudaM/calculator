@@ -1,0 +1,25 @@
+.App {
+  width: 40%;
+  margin-left: 27rem;
+  margin-top: 8rem;
+  background: #fff2e2;
+  padding: 2rem;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.fill{
+  background-color: #cf9090;
+}
+
+body{
+  background-color: #cf9090;
+}
+
+.Figures {
+  text-align: left;
+}
+
+.result{
+  margin-top: 1rem;
+}
